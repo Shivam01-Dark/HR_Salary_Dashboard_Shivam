@@ -39,6 +39,23 @@ Kaggle HR dataset reference
 CSV data processing
 
 
-Outcome
+Outcome-
 
 Successfully analyzed HR salary data and created ready-to-use visual insights.
+
+### Machine Learning Model Used
+- **Algorithm:** Linear Regression
+- **Objective:** Predict Employee Salary
+- **Dataset Source:** Kaggle HR Analytics dataset
+- **Tools Used:** Python, Pandas, Matplotlib, Scikit-Learn
+
+### Model Performance Metrics
+- R² Score: (Will display in terminal)
+- RMSE: (Will display in terminal)
+
+### Project Workflow
+- Data Cleaning
+- Data Visualization
+- Feature Selection
+- Model Training & Prediction
+- Performance Evaluation & Dashboard Visuals
