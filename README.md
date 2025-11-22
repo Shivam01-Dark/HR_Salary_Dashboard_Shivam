@@ -32,12 +32,37 @@ The goal is to clean and structure the dataset, visualize salary variations, and
 - Generated charts and stored results
 - Prepared final project report
 
+  
+### Data Sanitization & Cleaning Performed
 
-## 📂 Project Structure
+- Removed duplicates and formatted salary values
+- Handled missing values and incorrect entries
+- Converted numeric fields into comparable formats
+- Verified structure consistency for modeling
+
+##  Project Structure
 ```bash
 HR_Salary_Dashboard_Shivam
 │
 ├── data/                 # Cleaned dataset files
 ├── src/                  # Python code (salary_dashboard.py)
 ├── visualizations/       # PNG charts output
+
+##  Visual Outputs (Dashboard Preview)
+
+### Salary Distribution (HR Dataset)
+![Salary Distribution](visualizations/salary_distribution_hrdataset_v14.png)
+
+### Average Salary (Top 10 Positions)
+![Average Salary](visualizations/avg_salary_by_position.png)
+
+### Median Salary Level (by Years at Company)
+![Median Salary](visualizations/median_salarylevel_by_years.png)
+
+### Average Monthly Hours Distribution
+![Monthly Hours Distribution](visualizations/avg_monthly_hours_dist.png)
 └── README.md             # Project documentation
+
+### Conclusion-
+
+This project successfully analyzed HR salary trends and built a salary prediction model using Linear Regression. The dashboard visuals provide valuable insights for HR decision-making, and the trained model can help estimate salary based on employee attributes.
