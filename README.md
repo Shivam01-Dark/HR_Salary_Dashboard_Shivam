@@ -48,19 +48,19 @@ HR_Salary_Dashboard_Shivam
 ├── src/                  # Python code (salary_dashboard.py)
 ├── visualizations/       # PNG charts output
 
-##  Visual Outputs (Dashboard Preview)
+## Visualizations
 
 ### Salary Distribution (HR Dataset)
 ![Salary Distribution](Visualizations/salary_distribution_hrdataset_v14.png)
 
 ### Average Salary (Top 10 Positions)
-![Average Salary](Visualizations/avg_salary_by_position.png)
+![Average Salary by Position](Visualizations/avg_salary_by_position.png)
 
-### Median Salary Level (by Years at Company)
-![Median Salary](Visualizations/median_salarylevel_by_years.png)
+### Median Salary Level (Years at Company)
+![Median Salary Level](Visualizations/median_salarylevel_by_years.png)
 
 ### Average Monthly Hours Distribution
-![Monthly Hours Distribution](Visualizations/avg_monthly_hours_dist.png)
+![Average Monthly Hours Distribution](Visualizations/avg_monthly_hours_dist.png)
 
 └── README.md             # Project documentation
 
