@@ -1,63 +1,43 @@
-# HR_Salary_Dashboard_Shivam
-TCS iON RIO-125: HR Salary Dashboard- Train the Dataset and Predict Salary
+# HR Salary Dashboard – TCS iON RIO-125 Internship Project
+### **Train the Dataset and Predict Salary**
 
-This repository contains the project work completed by Shivam during the TCS iON Remote Internship. The goal is to analyze HR salary data, visualize insights, and build a linear regression model to predict salary.
+This repository contains the internship project completed by **Shivam** under **TCS iON Remote Internship Program**.  
+The aim of the project is to analyze HR salary datasets, perform data sanitization, visualize salary insights, and apply a Linear Regression model to predict employee salary.
 
-Intern: Shivam
-Organization: TCS iON
-Project Duration: 22 July 2025 – 24 August 2025
+---
 
-Project Overview
+## Internship Details
+| Field | Information |
+|--------|-------------|
+| **Intern** | Shivam |
+| **Organization** | TCS iON |
+| **Project Title** | HR Salary Dashboard – Train the Dataset and Predict Salary |
+| **Duration** | 22 July 2025 – 24 August 2025 *(Extended to 20 Nov 2025)* |
+| **Mode** | Remote Internship |
 
-This project focuses on HR employee salary data analysis using real dataset samples.
-The objective is to clean and sanitize HR datasets and generate useful visual insights for salary variation analysis.
+---
 
-Tasks Completed
+##  Project Overview
+This project focuses on analyzing HR employee salary data using real dataset samples.  
+The goal is to clean and structure the dataset, visualize salary variations, and build a predictive model to understand salary behavior.
 
-Cleaned HR datasets (removed duplicates, formatted salary values, processed missing data)
+---
 
-Performed dataset sanitization
+## Tasks Completed
+- Cleaned HR dataset (removed duplicates, processed missing values)
+- Dataset sanitization & formatting
+- Salary trend visualizations for dashboard usage
 
-Created visual charts for dashboard use
-
-Prepared final project report
-
-
-Project Contents
-
-Folder	Description
-
-datasets	Cleaned datasets used
-visualizations	Generated charts
-project_report.pdf	Full report
-
-
-Tools Used
-
-Python (Pandas, Matplotlib)
-
-Kaggle HR dataset reference
-
-CSV data processing
+- Built a Linear Regression prediction model
+- Generated charts and stored results
+- Prepared final project report
 
 
-Outcome-
-
-Successfully analyzed HR salary data and created ready-to-use visual insights.
-
-### Machine Learning Model Used
-- **Algorithm:** Linear Regression
-- **Objective:** Predict Employee Salary
-- **Dataset Source:** Kaggle HR Analytics dataset
-- **Tools Used:** Python, Pandas, Matplotlib, Scikit-Learn
-
-### Model Performance Metrics
-- R² Score: (Will display in terminal)
-- RMSE: (Will display in terminal)
-
-### Project Workflow
-- Data Cleaning
-- Data Visualization
-- Feature Selection
-- Model Training & Prediction
-- Performance Evaluation & Dashboard Visuals
+## 📂 Project Structure
+```bash
+HR_Salary_Dashboard_Shivam
+│
+├── data/                 # Cleaned dataset files
+├── src/                  # Python code (salary_dashboard.py)
+├── visualizations/       # PNG charts output
+└── README.md             # Project documentation
