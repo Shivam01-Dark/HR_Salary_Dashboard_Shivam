@@ -1,5 +1,7 @@
 # HR_Salary_Dashboard_Shivam
-HR Salary Dashboard – TCS iON RIO-125
+TCS iON RIO-125: HR Salary Dashboard- Train the Dataset and Predict Salary
+
+This repository contains the project work completed by Shivam during the TCS iON Remote Internship. The goal is to analyze HR salary data, visualize insights, and build a linear regression model to predict salary.
 
 Intern: Shivam
 Organization: TCS iON
