@@ -51,16 +51,17 @@ HR_Salary_Dashboard_Shivam
 ##  Visual Outputs (Dashboard Preview)
 
 ### Salary Distribution (HR Dataset)
-![Salary Distribution](visualizations/salary_distribution_hrdataset_v14.png)
+![Salary Distribution](Visualizations/salary_distribution_hrdataset_v14.png)
 
 ### Average Salary (Top 10 Positions)
-![Average Salary](visualizations/avg_salary_by_position.png)
+![Average Salary](Visualizations/avg_salary_by_position.png)
 
 ### Median Salary Level (by Years at Company)
-![Median Salary](visualizations/median_salarylevel_by_years.png)
+![Median Salary](Visualizations/median_salarylevel_by_years.png)
 
 ### Average Monthly Hours Distribution
-![Monthly Hours Distribution](visualizations/avg_monthly_hours_dist.png)
+![Monthly Hours Distribution](Visualizations/avg_monthly_hours_dist.png)
+
 └── README.md             # Project documentation
 
 ### Conclusion-
