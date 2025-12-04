@@ -21,7 +21,25 @@ The aim of the project is to analyze HR salary datasets, perform data sanitizati
 This project focuses on analyzing HR employee salary data using real dataset samples.  
 The goal is to clean and structure the dataset, visualize salary variations, and build a predictive model to understand salary behavior.
 
----
+---Tools & Technologies---
+
+Category	/ Used
+
+Language /	Python
+Libraries	 / Pandas, NumPy, Matplotlib, Scikit-Learn
+Environment /	Jupyter Notebook / VS Code
+Model Type	/ Linear Regression
+
+#DATASET DETAILS#
+Dataset Given by Tcs mentor rushikesh to all students in discussion room 
+
+(This kind of model helps HR to better estimate salaries of new employees. Regarding dataset there is no restriction on what dataset you can use. There are different data sources available over online to get better datasets. Many participants are creating faker library to generate fake data which may not help us in creating better data, Below are some dataset suggestions but you can )
+
+
+
+1) https://www.kaggle.com/rhuebner/human-resources-data-sel
+
+2) https://www.kaggle.com/jacksonchou/hr-data-for-analytics
 
 ## Tasks Completed
 - Cleaned HR dataset (removed duplicates, processed missing values)
@@ -32,6 +50,8 @@ The goal is to clean and structure the dataset, visualize salary variations, and
 - Generated charts and stored results
 - Prepared final project report
 
+
+
   
 ### Data Sanitization & Cleaning Performed
 
@@ -40,7 +60,16 @@ The goal is to clean and structure the dataset, visualize salary variations, and
 - Converted numeric fields into comparable formats
 - Verified structure consistency for modeling
 
+_Model Output Example_
+
+Age/Experience/Current Salary/Predicted Salary
+29/	4 Years	/₹4.5 /LPA	/₹5.8 LPA
+
+
+
 ##  Visualizations
+
+Chart type files:-
 
 ### Salary Distribution (HR Dataset)
 ![Salary Distribution](Visualizations/salary_distribution_hrdataset_v14.png)
@@ -53,6 +82,18 @@ The goal is to clean and structure the dataset, visualize salary variations, and
 
 ### Average Monthly Hours Distribution
 ![Average Monthly Hours Distribution](Visualizations/avg_monthly_hours_dist.png)
+
+---Installation & Setup---
+
+pip install -r 
+requirements.txt
+
+To run model:
+
+python
+hr_salary_prediction.py
+
+
 
 ##  Project Structure
 ```bash
